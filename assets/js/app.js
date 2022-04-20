@@ -9,6 +9,7 @@ const app = new Vue({
     // Stampo a schermo un messaggio all’interno di un h1, utilizzando i data
     data: {
         title: 'Buongiorno!',
+        style_title: 'title',
         image: './img/alba.jpg'
     }
 })

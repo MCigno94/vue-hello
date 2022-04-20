@@ -2,7 +2,7 @@ body {
     text-align: center;
 }
 
-h1 {
+.title {
     font-size: 3rem;
     text-transform: uppercase;
     color: chocolate;
